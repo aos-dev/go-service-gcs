@@ -14,7 +14,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/).
 
 ### Changed
 
-- *: Implement GSP-109: Redesign Features (#35)
+- *: Implement GSP-109 Redesign Features (#35)
 - *: Implement GSP-117 Rename Service to System as the Opposite to Global (#35)
 
 ### Upgraded
